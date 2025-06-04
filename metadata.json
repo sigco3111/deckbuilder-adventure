@@ -1,0 +1,6 @@
+{
+  "name": "Deckbuilder Adventure",
+  "description": "A Slay the Spire-like deck-building card game where you battle monsters, collect new cards, and try to conquer the spire.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
