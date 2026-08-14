@@ -2,7 +2,9 @@
 
 슬레이 더 스파이어(Slay the Spire)와 같은 덱 빌딩 카드 게임으로, 몬스터와 전투하고, 새로운 카드를 수집하며 탑을 정복하는 모험을 즐길 수 있습니다.
 
-실행 주소 : https://dev-canvas-pi.vercel.app/
+라이브 데모 : https://sigco3111.github.io/deckbuilder-adventure/
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-GitHub_Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)](https://sigco3111.github.io/deckbuilder-adventure/)
 
 ## 주요 기능
 
